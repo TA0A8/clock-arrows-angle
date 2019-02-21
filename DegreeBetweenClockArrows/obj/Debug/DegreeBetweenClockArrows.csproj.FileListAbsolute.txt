@@ -1,0 +1,7 @@
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\bin\Debug\DegreeBetweenClockArrows.exe.config
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\bin\Debug\DegreeBetweenClockArrows.exe
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\bin\Debug\DegreeBetweenClockArrows.pdb
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\obj\Debug\DegreeBetweenClockArrows.csprojAssemblyReference.cache
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\obj\Debug\DegreeBetweenClockArrows.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\obj\Debug\DegreeBetweenClockArrows.exe
+C:\Users\Notebook\my-C#-workspace\DegreeBetweenClockArrows\DegreeBetweenClockArrows\obj\Debug\DegreeBetweenClockArrows.pdb
